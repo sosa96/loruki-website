@@ -1,3 +1,2 @@
 # loruki-website
-Cloud hosting website
-You can visit website on this domain: https://loruki-sosa.netlify.app/
+My first cloud hosted website. You can visit it on this domain: https://loruki-sosa.netlify.app/
